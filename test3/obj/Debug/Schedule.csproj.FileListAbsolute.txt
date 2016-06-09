@@ -1,0 +1,6 @@
+G:\GITHUB\Schedule\test3\obj\Debug\test3.Form1.resources
+G:\GITHUB\Schedule\test3\obj\Debug\test3.InitForm.resources
+G:\GITHUB\Schedule\test3\obj\Debug\Schedule.Properties.Resources.resources
+G:\GITHUB\Schedule\test3\obj\Debug\test3.UserRadioButton.resources
+G:\GITHUB\Schedule\test3\obj\Debug\test3.UserSingleButton.resources
+G:\GITHUB\Schedule\test3\obj\Debug\Schedule.csproj.GenerateResource.Cache
