@@ -13,3 +13,7 @@ Platform:Visual Studio 2015
 
 语言：C#
 平台：Visual Studio 2015
+
+##screenshot
+![image](https://github.com/AniChikage/Schedule/blob/master/ProjImg/1.png)
+![image](https://github.com/AniChikage/Schedule/blob/master/ProjImg/2.png)
