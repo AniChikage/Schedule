@@ -57,3 +57,15 @@ D:\微云同步盘\877229225\USTB\程序及相关资料\D\test3\obj\Debug\test3.
 D:\微云同步盘\877229225\USTB\程序及相关资料\D\test3\obj\Debug\test3.UserSingleButton.resources
 D:\微云同步盘\877229225\USTB\程序及相关资料\D\test3\obj\Debug\test3.csproj.GenerateResource.Cache
 D:\微云同步盘\877229225\USTB\程序及相关资料\D\test3\obj\Debug\test3.pdb
+G:\GITHUB\Schedule\test3\bin\Debug\test3.exe.config
+G:\GITHUB\Schedule\test3\obj\Debug\test3.exe
+G:\GITHUB\Schedule\test3\obj\Debug\test3.pdb
+G:\GITHUB\Schedule\test3\bin\Debug\test3.exe
+G:\GITHUB\Schedule\test3\bin\Debug\test3.pdb
+G:\GITHUB\Schedule\test3\obj\Debug\test3.csprojResolveAssemblyReference.cache
+G:\GITHUB\Schedule\test3\obj\Debug\test3.Form1.resources
+G:\GITHUB\Schedule\test3\obj\Debug\test3.InitForm.resources
+G:\GITHUB\Schedule\test3\obj\Debug\test3.Properties.Resources.resources
+G:\GITHUB\Schedule\test3\obj\Debug\test3.UserRadioButton.resources
+G:\GITHUB\Schedule\test3\obj\Debug\test3.UserSingleButton.resources
+G:\GITHUB\Schedule\test3\obj\Debug\test3.csproj.GenerateResource.Cache
